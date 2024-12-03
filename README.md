@@ -18,7 +18,6 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
     - [Other](#other)
   - [PhD/MSc Theses](#phdmsc-theses)
   - [Blogs, Talks, etc.](#blogs-talks-etc)
-- [Weight Space Learning Citations](#weight-space-learning-citations)
 
 ---
 
@@ -69,8 +68,6 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 ## PhD/MSc Theses
 
 ## Blogs, Talks, etc.
-
-# Weight Space Learning Citations
 
 
 
