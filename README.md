@@ -1,8 +1,12 @@
 # Awesome Weight Space Learning
 
+![weight-space learning](figures/wsl.drawio.png)
+
 Weight-space learning is a rapidly-growing area within machine learning, centered on learning functions of neural network weights. This repository is a collection of weight-space learning papers. 
 
 It is not exhaustive and will likely never be, but feel free to open a PR if you want to see a paper listed (self-promotion is welcome 🙃). 
+
+
 
 **Table of Contents**
 - [Awesome Weight Space Learning](#awesome-weight-space-learning)
@@ -15,7 +19,6 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
   - [PhD/MSc Theses](#phdmsc-theses)
   - [Blogs, Talks, etc.](#blogs-talks-etc)
 - [Weight Space Learning Citations](#weight-space-learning-citations)
-
 
 ---
 
