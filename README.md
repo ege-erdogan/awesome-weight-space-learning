@@ -67,6 +67,8 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ## PhD/MSc Theses
 
+* Schürholt, K. - [Hyper-Representations: Learning from Populations of Neural Networks](https://arxiv.org/abs/2410.05107) (2024)
+
 ## Blogs, Talks, etc.
 
 
