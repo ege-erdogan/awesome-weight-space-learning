@@ -37,6 +37,9 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Weight-Space Generative Models
 
+* Wang et al - [Recurrent Diffusion for Large-Scale Parameter Generation](https://arxiv.org/abs/2501.11587) (2025)
+* Soro et al - [Diffusion-Based Neural Network Weights Generation](https://arxiv.org/abs/2402.18153) (2024)
+* Wang et al - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144) (2024)
 * Erkoç et al - [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Erkoc_HyperDiffusion_Generating_Implicit_Neural_Fields_with_Weight-Space_Diffusion_ICCV_2023_paper.html) (2023)
 * Schürholt et al - [Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2c4b7d34b3d96b9dc12f7bce424b7ae-Abstract-Conference.html) (2022)
 * Peebles et al - [Learning to Learn with Generative Models of Neural Network Checkpoints](https://doi.org/10.48550/arXiv.2209.12892) (2022)
@@ -61,6 +64,8 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 * Schürholt K. - [Hyper-Representations: Learning from Populations of Neural Networks](https://arxiv.org/abs/2410.05107) (2024)
 
 ## Blogs, Talks, etc.
+
+* [Weight-Space Learning Workshop @ ICLR '25](https://weight-space-learning.github.io/)
 
 
 
