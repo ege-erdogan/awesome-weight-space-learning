@@ -11,9 +11,8 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 **Table of Contents**
 - [Awesome Weight Space Learning](#awesome-weight-space-learning)
   - [Papers](#papers)
-    - [Architectures](#architectures)
+    - [Architectures / Training](#architectures--training)
     - [Weight-Space Generative Models](#weight-space-generative-models)
-    - [Applications](#applications)
     - [Datasets](#datasets)
     - [Other](#other)
   - [PhD/MSc Theses](#phdmsc-theses)
@@ -23,8 +22,9 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ## Papers
 
-### Architectures 
+### Architectures / Training
 
+* Meynent et al - [Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction](http://arxiv.org/abs/2503.17138) (2025)
 * Schürholt et al - [Towards Scalable and Versatile Weight Space Learning](http://arxiv.org/abs/2406.09997) (2024)
 * Kalogeropoulos et al - [Scale Equivariant Graph Metanetworks](http://arxiv.org/abs/2406.10685) (2024)
 * Kofinas et al - [Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://doi.org/10.48550/arXiv.2403.12143) (2024)
@@ -37,6 +37,7 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Weight-Space Generative Models
 
+* Saragih et al - [Flow to Learn: Flow Matching on Neural Network Parameters](http://arxiv.org/abs/2503.19371) (2025)
 * Wang et al - [Recurrent Diffusion for Large-Scale Parameter Generation](https://arxiv.org/abs/2501.11587) (2025)
 * Soro et al - [Diffusion-Based Neural Network Weights Generation](https://arxiv.org/abs/2402.18153) (2024)
 * Wang et al - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144) (2024)
@@ -44,19 +45,16 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 * Schürholt et al - [Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b2c4b7d34b3d96b9dc12f7bce424b7ae-Abstract-Conference.html) (2022)
 * Peebles et al - [Learning to Learn with Generative Models of Neural Network Checkpoints](https://doi.org/10.48550/arXiv.2209.12892) (2022)
 
-### Applications
-
-* Schürholt et al - [Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction](https://proceedings.neurips.cc/paper_files/paper/2021/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) (2021)
-
 ### Datasets
 
 * Schürholt et al - [Model Zoos: A Dataset of Diverse Populations of Neural Network Models](https://proceedings.neurips.cc/paper/2022/hash/f3b7e5d3eb074cde5b76e26bc0fb5776-Abstract-Conference.html) (2022)
 
 ### Other
 
-* Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024)
+* Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024) 
 * Navon et al - [Equivariant Deep Weight Space Alignment](https://doi.org/10.48550/arXiv.2310.13397) (2024)
 * Shamsian et al - [Improved Generalization of Weight Space Networks via Augmentations](https://doi.org/10.48550/arXiv.2402.04081) (2024)
+* Schürholt et al - [Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction](https://proceedings.neurips.cc/paper_files/paper/2021/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) (2021)
 
 ## PhD/MSc Theses
 
