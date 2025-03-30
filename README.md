@@ -25,13 +25,16 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 ### Architectures / Training
 
 * Meynent et al - [Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction](http://arxiv.org/abs/2503.17138) (2025)
+* Putterman et al - [Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models](https://arxiv.org/abs/2410.04207) (2024)
 * Schürholt et al - [Towards Scalable and Versatile Weight Space Learning](http://arxiv.org/abs/2406.09997) (2024)
+* Tran et al - [Monomial Matrix Group Equivariant Neural Functional Networks](https://arxiv.org/abs/2409.11697) (2024)
 * Kalogeropoulos et al - [Scale Equivariant Graph Metanetworks](http://arxiv.org/abs/2406.10685) (2024)
 * Kofinas et al - [Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://doi.org/10.48550/arXiv.2403.12143) (2024)
 * Zhou et al - [Universal Neural Functionals](https://doi.org/10.48550/arXiv.2402.05232) (2024)
 * Zhou et al - [Permutation Equivariant Neural Functionals](https://doi.org/10.48550/arXiv.2302.14040) (2023)
 * Zhou et al - [Neural Functional Transformers](https://papers.nips.cc/paper_files/paper/2023/hash/6e2290d3b6168f9747f38786e40c21f2-Abstract-Conference.html) (2023)
 * Lim et al - [Graph Metanetworks for Processing Diverse Neural Architectures](https://doi.org/10.48550/arXiv.2312.04501) (2023)
+* Andreis et al - [Set-based Neural Network Encoding Without Weight Tying](https://arxiv.org/abs/2305.16625) (2023)
 * Navon et al - [Equivariant Architectures for Learning in Deep Weight Spaces](https://doi.org/10.48550/arXiv.2301.12780) (2023)
 * Unterthiner et al - [Predicting Neural Network Accuracy from Weights](https://doi.org/10.48550/arXiv.2002.11448) (2021)
 
@@ -51,7 +54,8 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Other
 
-* Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024) 
+* Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024)
+* Lim et al - [The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof](https://arxiv.org/abs/2405.20231) (2024)
 * Navon et al - [Equivariant Deep Weight Space Alignment](https://doi.org/10.48550/arXiv.2310.13397) (2024)
 * Shamsian et al - [Improved Generalization of Weight Space Networks via Augmentations](https://doi.org/10.48550/arXiv.2402.04081) (2024)
 * Schürholt et al - [Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction](https://proceedings.neurips.cc/paper_files/paper/2021/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) (2021)
