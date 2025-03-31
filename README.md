@@ -54,6 +54,7 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Other
 
+* Plattner et al - [Shape Generation via Weight Space Learning](https://arxiv.org/abs/2503.21830) (2025)
 * Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024)
 * Lim et al - [The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof](https://arxiv.org/abs/2405.20231) (2024)
 * Navon et al - [Equivariant Deep Weight Space Alignment](https://doi.org/10.48550/arXiv.2310.13397) (2024)
