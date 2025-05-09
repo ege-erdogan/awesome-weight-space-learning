@@ -60,6 +60,7 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 * Navon et al - [Equivariant Deep Weight Space Alignment](https://doi.org/10.48550/arXiv.2310.13397) (2024)
 * Shamsian et al - [Improved Generalization of Weight Space Networks via Augmentations](https://doi.org/10.48550/arXiv.2402.04081) (2024)
 * Schürholt et al - [Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction](https://proceedings.neurips.cc/paper_files/paper/2021/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) (2021)
+* Joseph et al - [Meta-Consolidation for Continual Learning](https://proceedings.neurips.cc/paper/2020/file/a5585a4d4b12277fee5cad0880611bc6-Paper.pdf) (2020)
 
 ## PhD/MSc Theses
 
