@@ -50,7 +50,7 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Datasets
 
-* Schürholt et al - [Model Zoos: A Dataset of Diverse Populations of Neural Network Models](https://proceedings.neurips.cc/paper/2022/hash/f3b7e5d3eb074cde5b76e26bc0fb5776-Abstract-Conference.html) (2022)
+* Schürholt et al - [Model Zoos: A Dataset of Diverse Populations of Neural Network Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f94d5edb5c01715d879693ddbfdc1b98-Abstract-Datasets_and_Benchmarks.html) (2022)
 
 ### Other
 
