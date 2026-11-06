@@ -56,6 +56,7 @@ It is not exhaustive and will likely never be, but feel free to open a PR if you
 
 ### Other
 
+* Cha et al - [Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers](https://arxiv.org/abs/2611.05798) (2026, preprint)
 * Plattner et al - [Shape Generation via Weight Space Learning](https://arxiv.org/abs/2503.21830) (2025)
 * Kahana et al - [Deep Linear Probe Generators for Weight Space Learning](https://doi.org/10.48550/arXiv.2410.10811) (2024)
 * Lim et al - [The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof](https://arxiv.org/abs/2405.20231) (2024)
